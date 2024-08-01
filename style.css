@@ -1,0 +1,21 @@
+/* stylesheet */
+
+.recipe-photo {
+    width: 500px;
+    height: auto;
+}
+
+* {
+    font-family: "Tahoma", sans-serif;
+    background-color: #E4DDD5;
+}
+
+h1, h3 {
+    color: #6E6159;
+    
+}
+
+ul, ol, p {
+    color: #8B8577;
+    font-weight: 300;
+}
