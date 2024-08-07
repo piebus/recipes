@@ -19,3 +19,29 @@ ul, ol, p {
     color: #8B8577;
     font-weight: 300;
 }
+
+li {
+    background-color: #ffffff;
+}
+
+.mylist {
+    background-color: #ffffff;
+    padding: 20px 40px;
+    margin: 20px;
+}
+
+.myheader {
+    background-color: #ffcece;
+    padding: 20px 40px;
+    margin: 20px;
+}
+
+.myimage {
+    margin: 10px 20px 0px 20px;
+}
+
+.description {
+    background-color: #ffffff;
+    padding: 10px 10px;
+    margin: 20px;
+}
